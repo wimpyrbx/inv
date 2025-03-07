@@ -1,0 +1,7 @@
+---
+description: Server Rules & Settings
+globs: 
+alwaysApply: false
+---
+# NPM
+Never run 'npm run dev'. This is taken care of by me.
