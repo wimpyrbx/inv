@@ -1,0 +1,15 @@
+---
+description: Which custom components do we have and how/when to use them
+globs: 
+alwaysApply: false
+---
+# Code Generation
+Always follow DRY (Don't Repeat Yourself).
+Always use [TASKS.md](mdc:TASKS.md) to outline tasks and subtasks.
+Always update @TASKS.md in between edits and at end of reply.
+
+# Pocketbase
+For Pocketbase related content see [pocketbase.mdc](mdc:.cursor/rules/pocketbase.mdc)
+
+# Server
+For npm/npx read [npm.mdc](mdc:.cursor/rules/npm.mdc) to avoid running server
